@@ -11,7 +11,7 @@ export default function Products({
 
       {selectCategory.map((category,i) => (
         <div key={i}>
-          <h3 className="text-light fw-bolder text-uppercase my-3">
+          <h3 className="text-dark fw-bolder text-uppercase my-3">
             {category}
           </h3>
           <div className="row row-cols-1 row-cols-md-4 g-4">
