@@ -10,7 +10,7 @@ export default function Header({cartCounter ,searchValue,setSearchValue}) {
     <nav className="navbar navbar-expand-lg px-5 py-3 navbar-light bg-light shadow p-3 mb-5 bg-white rounded sticky-top">
       <div className="container-fluid">
         <button className="navbar-brand bg-light border-0" >
-        <i className="font-weight-800 h2 text-danger text-uppercase">KFC</i>
+        <i className="font-weight-800 h2 text-danger text-uppercase">E-como</i>
         </button>
         <button
           className="navbar-toggler"
